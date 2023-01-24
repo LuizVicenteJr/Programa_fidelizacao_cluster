@@ -55,5 +55,7 @@ O objetivo deste projeto é utilizar a técnica de clusterização para trazer p
    
    Qual a porcentagem de contribuição do faturamento, vinda do Insiders ?
    
+   ## Conclusão : 
+   **Com este trabalho, além de facilitar a criação do programa de fidelidade para os clientes que mais geram receita para a empresa,podemos utilizar os      outros cluster para gerar insights de como melhorar as vendas nestes grupos** . 
    
 
