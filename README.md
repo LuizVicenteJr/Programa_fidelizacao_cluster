@@ -1,6 +1,7 @@
 # Insiders_Clustering
 
-O objetivo deste projeto é utilizar a técnica de clusterização para trazer para a equipe de negócios os clientes mais valiosos para integrar o programa de fidelização da empresa, um e-commerce que disponibilizou sua base de vendas de período de 1 ano .
+O objetivo deste projeto é utilizar a técnica de clusterização para trazer para a equipe de negócios os clientes mais valiosos para integrar o programa de fidelização da empresa e entender o comportamento de consumo destes clientes. 
+A empresa em questão é um e-commerce que disponibilizou sua base de vendas de período de 1 ano .
 
 # Estratégia para solução do problema :
  Após receber a base de dados, trabalhei a solução em 10 passos:
