@@ -25,7 +25,7 @@ A empresa em questão é um e-commerce que disponibilizou sua base de vendas de 
   **Defini as variáveis finais do modelo** : Faturamento,intervalo entre compras, quantidade de produtos comprados,frequência de compra e quantidade de itens retornados.
   
   ## 7.0 Hyperparameter Fine-Tuning:
-   **Avaliei a performance do modelo com diferentes métodos e defini que a melhor escolha,no momento, seria utilizar 8 clusters .
+   **Avaliei a performance do modelo com diferentes métodos e defini que a melhor escolha,no momento, seria utilizar 8 clusters** .
    
    ## 8.0 8.0 MODEL TRAINING
    Treinamento do modelo final .
